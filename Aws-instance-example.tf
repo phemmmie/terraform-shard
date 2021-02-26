@@ -2,7 +2,7 @@ provider "aws"{
   region     ="us-east-1"
   access_key = "Ahwdffjvninidnid"
   secret_key = "dgvdpagviibsusus"
-  version "~> 2.0"
+  version = "~> 2.0"
 }
 
 
